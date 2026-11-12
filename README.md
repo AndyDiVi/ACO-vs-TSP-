@@ -1,6 +1,9 @@
 # Laboratory 3 – Traveling Salesman Problem using Ant Colony Optimization
-
 Authors: Di Via, Graziani & Hiller-Szala
+
+<img width="850" height="654" alt="image" src="https://github.com/user-attachments/assets/13cfed7d-cae0-4d0e-a075-2a5ce12f298e" />
+
+
 
 ## Overview
 
