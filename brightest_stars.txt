@@ -1,0 +1,16 @@
+0 0 N 0 0 E Sun
+16 43 S 101 17 E Sirius
+52 42 S 95 59 E Canopus
+60 50 S 219 54 E Alpha_Centauri
+19 11 N 213 55 E Arcturus
+38 47 N 279 14 E Vega
+45 59 N 79 10 E Capella
+8 12 S 78 52 E Rigel
+5 13 N 114 50 E Procyon
+57 14 S 24 26 E Achernar
+7 24 N 88 49 E Betelgeuse
+26 18 N 210 58 E Altair
+16 30 S 210 58 E Aldebaran
+29 15 S 263 30 E Antares
+17 31 S 95 40 E Spica
+16 30 S 104 39 E Bellatrix

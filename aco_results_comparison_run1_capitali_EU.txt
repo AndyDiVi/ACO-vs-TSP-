@@ -1,0 +1,578 @@
+
+ Run 1 | Seed: 42 | Comparing ACO strategies for different local/global update rules 
+
+Strategy 1 | Local Rule 1 | Gamma 0.10 | Global Rule 1
+Lbest: 162.9340 | Lmin: 162.9340 | Iter: 13
+Start city: Zagabria | End city: Atene
+
+Strategy 1 | Local Rule 1 | Gamma 0.10 | Global Rule 2
+Lbest: 158.2700 | Lmin: 158.2700 | Iter: 24
+Start city: Atene | End city: Nicosia
+
+Strategy 1 | Local Rule 1 | Gamma 0.20 | Global Rule 1
+Lbest: 156.4412 | Lmin: 156.4412 | Iter: 32
+Start city: Riga | End city: Vilnius
+
+Strategy 1 | Local Rule 1 | Gamma 0.20 | Global Rule 2
+Lbest: 153.3879 | Lmin: 153.3879 | Iter: 36
+Start city: LaValletta | End city: Atene
+
+Strategy 1 | Local Rule 1 | Gamma 0.30 | Global Rule 1
+Lbest: 161.9347 | Lmin: 161.9347 | Iter: 15
+Start city: Berlino | End city: Madrid
+
+Strategy 1 | Local Rule 1 | Gamma 0.30 | Global Rule 2
+Lbest: 157.9472 | Lmin: 166.7593 | Iter: 16
+Start city: Parigi | End city: Dublino
+
+Strategy 1 | Local Rule 1 | Gamma 0.40 | Global Rule 1
+Lbest: 162.7843 | Lmin: 162.7843 | Iter: 17
+Start city: LaValletta | End city: Lisbona
+
+Strategy 1 | Local Rule 1 | Gamma 0.40 | Global Rule 2
+Lbest: 165.1791 | Lmin: 166.2330 | Iter: 11
+Start city: Atene | End city: Nicosia
+
+Strategy 1 | Local Rule 1 | Gamma 0.50 | Global Rule 1
+Lbest: 160.1496 | Lmin: 160.1496 | Iter: 24
+Start city: Nicosia | End city: Varsavia
+
+Strategy 1 | Local Rule 1 | Gamma 0.50 | Global Rule 2
+Lbest: 157.7668 | Lmin: 161.3600 | Iter: 28
+Start city: Copenaghen | End city: Bruxelles
+
+Strategy 1 | Local Rule 1 | Gamma 0.60 | Global Rule 1
+Lbest: 160.3462 | Lmin: 169.8367 | Iter: 28
+Start city: Roma | End city: Lisbona
+
+Strategy 1 | Local Rule 1 | Gamma 0.60 | Global Rule 2
+Lbest: 156.8486 | Lmin: 161.5003 | Iter: 15
+Start city: Amsterdam | End city: Dublino
+
+Strategy 1 | Local Rule 1 | Gamma 0.70 | Global Rule 1
+Lbest: 154.5838 | Lmin: 154.5838 | Iter: 21
+Start city: Lubiana | End city: Lussemburgo
+
+Strategy 1 | Local Rule 1 | Gamma 0.70 | Global Rule 2
+Lbest: 162.2136 | Lmin: 166.8150 | Iter: 18
+Start city: Parigi | End city: Dublino
+
+Strategy 1 | Local Rule 1 | Gamma 0.80 | Global Rule 1
+Lbest: 163.4501 | Lmin: 163.4501 | Iter: 14
+Start city: Nicosia | End city: Bucarest
+
+Strategy 1 | Local Rule 1 | Gamma 0.80 | Global Rule 2
+Lbest: 160.8478 | Lmin: 161.4742 | Iter: 32
+Start city: Sofia | End city: Madrid
+
+Strategy 1 | Local Rule 1 | Gamma 0.90 | Global Rule 1
+Lbest: 162.3404 | Lmin: 165.9648 | Iter: 16
+Start city: Bratislava | End city: Budapest
+
+Strategy 1 | Local Rule 1 | Gamma 0.90 | Global Rule 2
+Lbest: 160.9635 | Lmin: 162.9100 | Iter: 11
+Start city: Roma | End city: Sofia
+
+Strategy 1 | Local Rule 2 | Gamma 0.20 | Global Rule 1
+Lbest: 161.8004 | Lmin: 162.4267 | Iter: 14
+Start city: Lubiana | End city: Nicosia
+
+Strategy 1 | Local Rule 2 | Gamma 0.20 | Global Rule 2
+Lbest: 165.4444 | Lmin: 166.6115 | Iter: 11
+Start city: Vilnius | End city: Nicosia
+
+Strategy 1 | Local Rule 3 | Gamma 0.20 | Global Rule 1
+Lbest: 161.9680 | Lmin: 161.9680 | Iter: 15
+Start city: Vilnius | End city: Varsavia
+
+Strategy 1 | Local Rule 3 | Gamma 0.20 | Global Rule 2
+Lbest: 166.1970 | Lmin: 166.1970 | Iter: 18
+Start city: Parigi | End city: Dublino
+
+Strategy 1 | Local Rule 4 | Gamma 0.20 | Global Rule 1
+Lbest: 165.3089 | Lmin: 165.3089 | Iter: 14
+Start city: Madrid | End city: Dublino
+
+Strategy 1 | Local Rule 4 | Gamma 0.20 | Global Rule 2
+Lbest: 168.1896 | Lmin: 168.6396 | Iter: 15
+Start city: Bratislava | End city: Nicosia
+
+Strategy 2 | Local Rule 1 | Gamma 0.10 | Global Rule 1
+Lbest: 157.7689 | Lmin: 157.7689 | Iter: 29
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 2 | Local Rule 1 | Gamma 0.10 | Global Rule 2
+Lbest: 156.9785 | Lmin: 156.9785 | Iter: 25
+Start city: Varsavia | End city: Bucarest
+
+Strategy 2 | Local Rule 1 | Gamma 0.20 | Global Rule 1
+Lbest: 163.2400 | Lmin: 163.2400 | Iter: 35
+Start city: Nicosia | End city: Atene
+
+Strategy 2 | Local Rule 1 | Gamma 0.20 | Global Rule 2
+Lbest: 157.4719 | Lmin: 157.4719 | Iter: 49
+Start city: Sofia | End city: Budapest
+
+Strategy 2 | Local Rule 1 | Gamma 0.30 | Global Rule 1
+Lbest: 158.0195 | Lmin: 163.7638 | Iter: 39
+Start city: Bruxelles | End city: Parigi
+
+Strategy 2 | Local Rule 1 | Gamma 0.30 | Global Rule 2
+Lbest: 154.5838 | Lmin: 160.1032 | Iter: 20
+Start city: Parigi | End city: Dublino
+
+Strategy 2 | Local Rule 1 | Gamma 0.40 | Global Rule 1
+Lbest: 160.7966 | Lmin: 162.7843 | Iter: 34
+Start city: LaValletta | End city: Lisbona
+
+Strategy 2 | Local Rule 1 | Gamma 0.40 | Global Rule 2
+Lbest: 160.2826 | Lmin: 163.1407 | Iter: 22
+Start city: Lubiana | End city: Bucarest
+
+Strategy 2 | Local Rule 1 | Gamma 0.50 | Global Rule 1
+Lbest: 159.5972 | Lmin: 159.5972 | Iter: 27
+Start city: Atene | End city: Sofia
+
+Strategy 2 | Local Rule 1 | Gamma 0.50 | Global Rule 2
+Lbest: 166.4224 | Lmin: 171.4170 | Iter: 11
+Start city: LaValletta | End city: Atene
+
+Strategy 2 | Local Rule 1 | Gamma 0.60 | Global Rule 1
+Lbest: 160.1496 | Lmin: 160.1496 | Iter: 25
+Start city: Nicosia | End city: Varsavia
+
+Strategy 2 | Local Rule 1 | Gamma 0.60 | Global Rule 2
+Lbest: 160.0656 | Lmin: 160.2639 | Iter: 34
+Start city: Roma | End city: Lussemburgo
+
+Strategy 2 | Local Rule 1 | Gamma 0.70 | Global Rule 1
+Lbest: 158.2131 | Lmin: 166.1685 | Iter: 23
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 2 | Local Rule 1 | Gamma 0.70 | Global Rule 2
+Lbest: 162.8337 | Lmin: 165.3122 | Iter: 26
+Start city: Vienna | End city: Amsterdam
+
+Strategy 2 | Local Rule 1 | Gamma 0.80 | Global Rule 1
+Lbest: 160.8478 | Lmin: 160.8478 | Iter: 25
+Start city: LaValletta | End city: Atene
+
+Strategy 2 | Local Rule 1 | Gamma 0.80 | Global Rule 2
+Lbest: 161.0100 | Lmin: 161.0100 | Iter: 17
+Start city: Sofia | End city: Bucarest
+
+Strategy 2 | Local Rule 1 | Gamma 0.90 | Global Rule 1
+Lbest: 161.9548 | Lmin: 165.5750 | Iter: 13
+Start city: Varsavia | End city: Lussemburgo
+
+Strategy 2 | Local Rule 1 | Gamma 0.90 | Global Rule 2
+Lbest: 165.4444 | Lmin: 165.4444 | Iter: 18
+Start city: Amsterdam | End city: Copenaghen
+
+Strategy 2 | Local Rule 2 | Gamma 0.20 | Global Rule 1
+Lbest: 165.3089 | Lmin: 165.3089 | Iter: 16
+Start city: Zagabria | End city: Nicosia
+
+Strategy 2 | Local Rule 2 | Gamma 0.20 | Global Rule 2
+Lbest: 162.2717 | Lmin: 162.2717 | Iter: 17
+Start city: Sofia | End city: Nicosia
+
+Strategy 2 | Local Rule 3 | Gamma 0.20 | Global Rule 1
+Lbest: 162.5944 | Lmin: 162.5944 | Iter: 24
+Start city: Vilnius | End city: Varsavia
+
+Strategy 2 | Local Rule 3 | Gamma 0.20 | Global Rule 2
+Lbest: 153.7302 | Lmin: 153.7302 | Iter: 40
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 2 | Local Rule 4 | Gamma 0.20 | Global Rule 1
+Lbest: 165.2579 | Lmin: 165.2579 | Iter: 27
+Start city: Roma | End city: Lubiana
+
+Strategy 2 | Local Rule 4 | Gamma 0.20 | Global Rule 2
+Lbest: 162.9839 | Lmin: 162.9839 | Iter: 21
+Start city: Budapest | End city: Nicosia
+
+Strategy 3 | Local Rule 1 | Gamma 0.10 | Global Rule 1
+Lbest: 155.1301 | Lmin: 155.1301 | Iter: 26
+Start city: Roma | End city: Lussemburgo
+
+Strategy 3 | Local Rule 1 | Gamma 0.10 | Global Rule 1
+Lbest: 156.8416 | Lmin: 156.8416 | Iter: 28
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.10 | Global Rule 1
+Lbest: 162.3974 | Lmin: 162.3974 | Iter: 30
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.10 | Global Rule 2
+Lbest: 161.9940 | Lmin: 161.9940 | Iter: 15
+Start city: Roma | End city: Sofia
+
+Strategy 3 | Local Rule 1 | Gamma 0.10 | Global Rule 2
+Lbest: 171.0468 | Lmin: 171.0468 | Iter: 30
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.10 | Global Rule 2
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 11
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.20 | Global Rule 1
+Lbest: 160.3600 | Lmin: 160.3600 | Iter: 20
+Start city: Roma | End city: Sofia
+
+Strategy 3 | Local Rule 1 | Gamma 0.20 | Global Rule 1
+Lbest: 168.4013 | Lmin: 168.4013 | Iter: 27
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.20 | Global Rule 1
+Lbest: 167.4327 | Lmin: 167.4327 | Iter: 33
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.20 | Global Rule 2
+Lbest: 157.6911 | Lmin: 157.6911 | Iter: 33
+Start city: Roma | End city: Sofia
+
+Strategy 3 | Local Rule 1 | Gamma 0.20 | Global Rule 2
+Lbest: 161.4073 | Lmin: 167.2428 | Iter: 27
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.20 | Global Rule 2
+Lbest: 159.0734 | Lmin: 159.0734 | Iter: 31
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.30 | Global Rule 1
+Lbest: 162.8399 | Lmin: 162.8399 | Iter: 15
+Start city: Roma | End city: Atene
+
+Strategy 3 | Local Rule 1 | Gamma 0.30 | Global Rule 1
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 13
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.30 | Global Rule 1
+Lbest: 168.3237 | Lmin: 168.3237 | Iter: 21
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.30 | Global Rule 2
+Lbest: 163.0961 | Lmin: 163.7225 | Iter: 23
+Start city: Roma | End city: Lubiana
+
+Strategy 3 | Local Rule 1 | Gamma 0.30 | Global Rule 2
+Lbest: 167.7634 | Lmin: 167.7634 | Iter: 21
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.30 | Global Rule 2
+Lbest: 166.3077 | Lmin: 166.3077 | Iter: 15
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.40 | Global Rule 1
+Lbest: 161.4742 | Lmin: 161.4742 | Iter: 13
+Start city: Roma | End city: LaValletta
+
+Strategy 3 | Local Rule 1 | Gamma 0.40 | Global Rule 1
+Lbest: 164.3853 | Lmin: 173.3586 | Iter: 16
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.40 | Global Rule 1
+Lbest: 169.5304 | Lmin: 169.5304 | Iter: 16
+Start city: Helsinki | End city: Lussemburgo
+
+Strategy 3 | Local Rule 1 | Gamma 0.40 | Global Rule 2
+Lbest: 159.7827 | Lmin: 159.7827 | Iter: 17
+Start city: Roma | End city: Atene
+
+Strategy 3 | Local Rule 1 | Gamma 0.40 | Global Rule 2
+Lbest: 166.7715 | Lmin: 167.2706 | Iter: 16
+Start city: Helsinki | End city: Sofia
+
+Strategy 3 | Local Rule 1 | Gamma 0.40 | Global Rule 2
+Lbest: 166.3077 | Lmin: 166.3077 | Iter: 20
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.50 | Global Rule 1
+Lbest: 160.5882 | Lmin: 160.5882 | Iter: 19
+Start city: Roma | End city: Lussemburgo
+
+Strategy 3 | Local Rule 1 | Gamma 0.50 | Global Rule 1
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 14
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.50 | Global Rule 1
+Lbest: 161.8050 | Lmin: 198.0019 | Iter: 30
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.50 | Global Rule 2
+Lbest: 160.9635 | Lmin: 160.9635 | Iter: 21
+Start city: Roma | End city: Sofia
+
+Strategy 3 | Local Rule 1 | Gamma 0.50 | Global Rule 2
+Lbest: 158.3611 | Lmin: 166.3077 | Iter: 33
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.50 | Global Rule 2
+Lbest: 161.4350 | Lmin: 166.7968 | Iter: 34
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.60 | Global Rule 1
+Lbest: 159.5984 | Lmin: 159.5984 | Iter: 20
+Start city: Roma | End city: Lussemburgo
+
+Strategy 3 | Local Rule 1 | Gamma 0.60 | Global Rule 1
+Lbest: 164.3287 | Lmin: 164.3287 | Iter: 24
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.60 | Global Rule 1
+Lbest: 160.4721 | Lmin: 166.3077 | Iter: 19
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.60 | Global Rule 2
+Lbest: 162.8399 | Lmin: 163.4501 | Iter: 16
+Start city: Roma | End city: Atene
+
+Strategy 3 | Local Rule 1 | Gamma 0.60 | Global Rule 2
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 13
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.60 | Global Rule 2
+Lbest: 169.6061 | Lmin: 174.1505 | Iter: 16
+Start city: Helsinki | End city: Bucarest
+
+Strategy 3 | Local Rule 1 | Gamma 0.70 | Global Rule 1
+Lbest: 157.6911 | Lmin: 157.6911 | Iter: 19
+Start city: Roma | End city: Sofia
+
+Strategy 3 | Local Rule 1 | Gamma 0.70 | Global Rule 1
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 15
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.70 | Global Rule 1
+Lbest: 170.2940 | Lmin: 170.2940 | Iter: 16
+Start city: Helsinki | End city: Nicosia
+
+Strategy 3 | Local Rule 1 | Gamma 0.70 | Global Rule 2
+Lbest: 158.4026 | Lmin: 158.4026 | Iter: 16
+Start city: Roma | End city: Lussemburgo
+
+Strategy 3 | Local Rule 1 | Gamma 0.70 | Global Rule 2
+Lbest: 160.4721 | Lmin: 165.7495 | Iter: 21
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.70 | Global Rule 2
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 18
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.80 | Global Rule 1
+Lbest: 166.7226 | Lmin: 166.7226 | Iter: 11
+Start city: Roma | End city: Nicosia
+
+Strategy 3 | Local Rule 1 | Gamma 0.80 | Global Rule 1
+Lbest: 160.3782 | Lmin: 160.3782 | Iter: 25
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.80 | Global Rule 1
+Lbest: 174.1505 | Lmin: 174.1505 | Iter: 11
+Start city: Helsinki | End city: Nicosia
+
+Strategy 3 | Local Rule 1 | Gamma 0.80 | Global Rule 2
+Lbest: 163.6045 | Lmin: 163.6815 | Iter: 21
+Start city: Roma | End city: Lussemburgo
+
+Strategy 3 | Local Rule 1 | Gamma 0.80 | Global Rule 2
+Lbest: 171.0243 | Lmin: 172.2020 | Iter: 13
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.80 | Global Rule 2
+Lbest: 169.6429 | Lmin: 170.1643 | Iter: 12
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.90 | Global Rule 1
+Lbest: 163.4501 | Lmin: 163.4501 | Iter: 12
+Start city: Roma | End city: Nicosia
+
+Strategy 3 | Local Rule 1 | Gamma 0.90 | Global Rule 1
+Lbest: 169.6061 | Lmin: 174.1505 | Iter: 20
+Start city: Helsinki | End city: Bucarest
+
+Strategy 3 | Local Rule 1 | Gamma 0.90 | Global Rule 1
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 12
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.90 | Global Rule 2
+Lbest: 159.0290 | Lmin: 166.7226 | Iter: 26
+Start city: Roma | End city: Lussemburgo
+
+Strategy 3 | Local Rule 1 | Gamma 0.90 | Global Rule 2
+Lbest: 171.1271 | Lmin: 171.1271 | Iter: 11
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 1 | Gamma 0.90 | Global Rule 2
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 14
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 2 | Gamma 0.20 | Global Rule 1
+Lbest: 162.5173 | Lmin: 162.5173 | Iter: 20
+Start city: Roma | End city: Lisbona
+
+Strategy 3 | Local Rule 2 | Gamma 0.20 | Global Rule 1
+Lbest: 174.1505 | Lmin: 174.1505 | Iter: 11
+Start city: Helsinki | End city: Nicosia
+
+Strategy 3 | Local Rule 2 | Gamma 0.20 | Global Rule 1
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 13
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 2 | Gamma 0.20 | Global Rule 2
+Lbest: 155.6423 | Lmin: 155.6423 | Iter: 34
+Start city: Roma | End city: Lussemburgo
+
+Strategy 3 | Local Rule 2 | Gamma 0.20 | Global Rule 2
+Lbest: 158.4839 | Lmin: 166.3077 | Iter: 13
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 2 | Gamma 0.20 | Global Rule 2
+Lbest: 155.2169 | Lmin: 155.2169 | Iter: 32
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 3 | Gamma 0.20 | Global Rule 1
+Lbest: 162.2551 | Lmin: 162.2551 | Iter: 19
+Start city: Roma | End city: Lussemburgo
+
+Strategy 3 | Local Rule 3 | Gamma 0.20 | Global Rule 1
+Lbest: 171.1848 | Lmin: 171.1848 | Iter: 19
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 3 | Gamma 0.20 | Global Rule 1
+Lbest: 163.6752 | Lmin: 163.6752 | Iter: 21
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 3 | Gamma 0.20 | Global Rule 2
+Lbest: 167.5377 | Lmin: 167.5377 | Iter: 22
+Start city: Roma | End city: Madrid
+
+Strategy 3 | Local Rule 3 | Gamma 0.20 | Global Rule 2
+Lbest: 169.9785 | Lmin: 169.9785 | Iter: 11
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 3 | Gamma 0.20 | Global Rule 2
+Lbest: 175.0857 | Lmin: 175.0857 | Iter: 11
+Start city: Helsinki | End city: Nicosia
+
+Strategy 3 | Local Rule 4 | Gamma 0.20 | Global Rule 1
+Lbest: 157.6911 | Lmin: 157.6911 | Iter: 31
+Start city: Roma | End city: Sofia
+
+Strategy 3 | Local Rule 4 | Gamma 0.20 | Global Rule 1
+Lbest: 170.1643 | Lmin: 170.1643 | Iter: 13
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 4 | Gamma 0.20 | Global Rule 1
+Lbest: 167.2706 | Lmin: 167.2706 | Iter: 13
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 4 | Gamma 0.20 | Global Rule 2
+Lbest: 166.7226 | Lmin: 166.7226 | Iter: 11
+Start city: Roma | End city: Nicosia
+
+Strategy 3 | Local Rule 4 | Gamma 0.20 | Global Rule 2
+Lbest: 174.0161 | Lmin: 174.1505 | Iter: 13
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 3 | Local Rule 4 | Gamma 0.20 | Global Rule 2
+Lbest: 166.3077 | Lmin: 170.1643 | Iter: 13
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 4 | Local Rule 1 | Gamma 0.10 | Global Rule 1
+Lbest: 158.7503 | Lmin: 158.7503 | Iter: 25
+Start city: Nicosia | End city: Atene
+
+Strategy 4 | Local Rule 1 | Gamma 0.10 | Global Rule 2
+Lbest: 162.4926 | Lmin: 162.4926 | Iter: 22
+Start city: Lussemburgo | End city: Dublino
+
+Strategy 4 | Local Rule 1 | Gamma 0.20 | Global Rule 1
+Lbest: 156.3260 | Lmin: 156.3260 | Iter: 21
+Start city: Lisbona | End city: Dublino
+
+Strategy 4 | Local Rule 1 | Gamma 0.20 | Global Rule 2
+Lbest: 156.4412 | Lmin: 156.4412 | Iter: 19
+Start city: Vilnius | End city: Varsavia
+
+Strategy 4 | Local Rule 1 | Gamma 0.30 | Global Rule 1
+Lbest: 155.3420 | Lmin: 155.3420 | Iter: 28
+Start city: Lisbona | End city: Dublino
+
+Strategy 4 | Local Rule 1 | Gamma 0.30 | Global Rule 2
+Lbest: 156.4412 | Lmin: 156.4412 | Iter: 21
+Start city: Roma | End city: Madrid
+
+Strategy 4 | Local Rule 1 | Gamma 0.40 | Global Rule 1
+Lbest: 156.4412 | Lmin: 156.4412 | Iter: 25
+Start city: Lubiana | End city: Lussemburgo
+
+Strategy 4 | Local Rule 1 | Gamma 0.40 | Global Rule 2
+Lbest: 162.2717 | Lmin: 162.2717 | Iter: 14
+Start city: Sofia | End city: Nicosia
+
+Strategy 4 | Local Rule 1 | Gamma 0.50 | Global Rule 1
+Lbest: 156.5721 | Lmin: 158.1834 | Iter: 29
+Start city: Roma | End city: Lussemburgo
+
+Strategy 4 | Local Rule 1 | Gamma 0.50 | Global Rule 2
+Lbest: 153.8331 | Lmin: 160.7760 | Iter: 23
+Start city: Lubiana | End city: Lussemburgo
+
+Strategy 4 | Local Rule 1 | Gamma 0.60 | Global Rule 1
+Lbest: 156.4841 | Lmin: 156.4841 | Iter: 28
+Start city: Roma | End city: Lussemburgo
+
+Strategy 4 | Local Rule 1 | Gamma 0.60 | Global Rule 2
+Lbest: 160.2639 | Lmin: 160.2639 | Iter: 35
+Start city: Atene | End city: Nicosia
+
+Strategy 4 | Local Rule 1 | Gamma 0.70 | Global Rule 1
+Lbest: 156.4412 | Lmin: 156.4412 | Iter: 12
+Start city: Roma | End city: Madrid
+
+Strategy 4 | Local Rule 1 | Gamma 0.70 | Global Rule 2
+Lbest: 158.2131 | Lmin: 164.8988 | Iter: 11
+Start city: Zagabria | End city: Sofia
+
+Strategy 4 | Local Rule 1 | Gamma 0.80 | Global Rule 1
+Lbest: 159.6375 | Lmin: 166.0304 | Iter: 28
+Start city: Atene | End city: Nicosia
+
+Strategy 4 | Local Rule 1 | Gamma 0.80 | Global Rule 2
+Lbest: 159.6546 | Lmin: 165.2162 | Iter: 14
+Start city: Parigi | End city: Dublino
+
+Strategy 4 | Local Rule 1 | Gamma 0.90 | Global Rule 1
+Lbest: 154.3566 | Lmin: 161.4523 | Iter: 12
+Start city: Bucarest | End city: Nicosia
+
+Strategy 4 | Local Rule 1 | Gamma 0.90 | Global Rule 2
+Lbest: 160.4709 | Lmin: 161.5003 | Iter: 16
+Start city: Sofia | End city: Nicosia
+
+Strategy 4 | Local Rule 2 | Gamma 0.20 | Global Rule 1
+Lbest: 156.5721 | Lmin: 156.5721 | Iter: 42
+Start city: Sofia | End city: Nicosia
+
+Strategy 4 | Local Rule 2 | Gamma 0.20 | Global Rule 2
+Lbest: 153.7302 | Lmin: 153.7302 | Iter: 40
+Start city: Helsinki | End city: Stoccolma
+
+Strategy 4 | Local Rule 3 | Gamma 0.20 | Global Rule 1
+Lbest: 154.5838 | Lmin: 154.5838 | Iter: 37
+Start city: Nicosia | End city: Bucarest
+
+Strategy 4 | Local Rule 3 | Gamma 0.20 | Global Rule 2
+Lbest: 153.3879 | Lmin: 153.3879 | Iter: 27
+Start city: Nicosia | End city: Bucarest
+
+Strategy 4 | Local Rule 4 | Gamma 0.20 | Global Rule 1
+Lbest: 154.7859 | Lmin: 154.7859 | Iter: 27
+Start city: Nicosia | End city: Bucarest
+
+Strategy 4 | Local Rule 4 | Gamma 0.20 | Global Rule 2
+Lbest: 157.2445 | Lmin: 157.2445 | Iter: 33
+Start city: Nicosia | End city: Bucarest
